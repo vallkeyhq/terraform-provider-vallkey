@@ -1,3 +1,9 @@
+![Vallkey Terraform provider](assets/cover.png)
+
+[![Checks](https://github.com/vallkeyhq/terraform-provider-vallkey/actions/workflows/checks.yml/badge.svg)](https://github.com/vallkeyhq/terraform-provider-vallkey/actions/workflows/checks.yml)
+[![Secret scan](https://github.com/vallkeyhq/terraform-provider-vallkey/actions/workflows/secrets.yml/badge.svg)](https://github.com/vallkeyhq/terraform-provider-vallkey/actions/workflows/secrets.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-968bff)](LICENSE)
+
 # Terraform provider for Vallkey
 
 Manage Vallkey ghost keys and their rules as code, reviewed in pull requests like the rest of your infrastructure.
